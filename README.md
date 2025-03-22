@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, HTML, CSS, JavaScript**
 
-- 📫 How to reach me: [vhvtalks@gmail.com](mailto:vhvtalks@gmail.com)
+- 📫 How to reach me: [hruthikwarrior@gmail.com](mailto:hruthikwarrior@gmail.com)
 
 <h3 align="left">🔗 Connect with Me:</h3>
 
