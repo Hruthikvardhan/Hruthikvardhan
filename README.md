@@ -2,24 +2,18 @@
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" src="https://i.giphy.com/RbDKaczqWovIugyJmW.webp" alt="coding">
 - 🌱 I’m currently learning **ReactJS and Spring Boot**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Hruthikvardhan](https://github.com/Hruthikvardhan?tab=repositories)
-
 - 💬 Ask me about **Java, HTML, CSS, JavaScript**
-
 - 📫 How to reach me: [vhvtalks@gmail.com](mailto:vhvtalks@gmail.com)
 
 <h3 align="left">🔗 Connect with Me:</h3>
-
 - 💼 [LinkedIn - Hruthik Vardhan](https://www.linkedin.com/in/hruthik-vardhan/)<br>
 - 🐦 [Twitter (X) - @hruthikwarrior](https://x.com/hruthikwarrior)<br>
 - 📷 [Instagram - @hruthikwarrior_tej](https://www.instagram.com/hruthikwarrior_tej/)<br>
 - 📹 [YouTube - VHV Talks](https://www.youtube.com/@vhvtalks)<br>
-
 ⭐️ **_I’m on a journey to 1,000 subscribers—Join me and let’s grow together!_**
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
-
 <p align="left">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
