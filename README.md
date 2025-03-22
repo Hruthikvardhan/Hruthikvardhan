@@ -15,7 +15,7 @@
 - 🐦 [Twitter (X) - @hruthikwarrior](https://x.com/hruthikwarrior)<br>
 - 📷 [Instagram - @hruthikwarrior_tej](https://www.instagram.com/hruthikwarrior_tej/)<br>
 - 📹 [YouTube - VHV Talks](https://www.youtube.com/@vhvtalks)<br>
-⭐️ **_I’m on a journey to 1,000 subscribers—Join me and let’s grow together!_**
+⭐️ **_I’m on a journey to 2,000 subscribers—Join me and let’s grow together!_**
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
