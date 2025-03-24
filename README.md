@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hruthik Vardhan</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" src="https://i.giphy.com/RbDKaczqWovIugyJmW.webp" alt="coding">
-- 🌱 I’m currently learning **ReactJS and Spring Boot**
+- 🌱 I’m currently learning *ReactJS and Spring Boot*
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hruthikvardhan](https://github.com/Hruthikvardhan?tab=repositories)
 
