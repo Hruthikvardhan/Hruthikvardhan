@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hruthik Vardhan</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" src="https://i.giphy.com/RbDKaczqWovIugyJmW.webp" alt="coding">
-- 🌱 I’m currently learning *ReactJS and Spring Boot*
+- 🌱 I’m currently learning **ReactJS** and **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hruthikvardhan](https://github.com/Hruthikvardhan?tab=repositories)
 
@@ -14,7 +14,7 @@
 - 💼 [LinkedIn - Hruthik Vardhan](https://www.linkedin.com/in/hruthik-vardhan/)<br>
 - 🐦 [Twitter (X) - @hruthikwarrior](https://x.com/hruthikwarrior)<br>
 - 📷 [Instagram - @hruthikwarrior_tej](https://www.instagram.com/hruthikwarrior_tej/)<br>
-- 📹 [YouTube - VHV Talks](https://www.youtube.com/@vhvtalks)<br>
+- 📹 [YouTube - vhvgamer2](https://www.youtube.com/@vhvgamer2)<br>
 ⭐️ **_I’m on a journey to 2,000 subscribers—Join me and let’s grow together!_**
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
